@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: it-IT.xml 19864 2010-03-30 05:11:27Z joomla.it $ -->
+<metafile version="1.6" client="administrator" method="upgrade" >
+	<tag>hr-HR</tag>
+	<name>Croatian (Hrvatski)</name>
+	<description>Croatian site language for Joomla 1.6</description>
+	<version>1.6.0</version>
+	<creationDate>2011-01-11</creationDate>
+	<author>Croatian Translation Team</author>
+	<authorEmail>erik@joomla-hrvatska.com</authorEmail>
+	<authorUrl>www.joomla-hrvatska.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2011 Open Source Matters and Joomla.it. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<metadata>
+		<name>Croatian (Hrvatski)</name>
+		<tag>hr-HR</tag>
+		<rtl>0</rtl>
+		<locale>hr_HR, hrv_HRV, hr, hrv, croatian, hrvatski, Croatian, Hrvatski, hr_HR.utf8</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
