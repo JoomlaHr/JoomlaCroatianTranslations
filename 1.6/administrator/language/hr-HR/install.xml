@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- $Id: 19432 2010-09-13 09:54:11Z joomla.it $ -->
+<!-- $Id$ -->
 <install version="1.6" client="administrator" type="language" method="upgrade">
     <tag>hr-HR</tag>
 	<name>Croatian (Hrvatski)</name>
