@@ -7,9 +7,6 @@
  * @copyright	Copyright (C) 2005 - 2011 Open Source Matters and joomla-hrvatska.com. All rights reserved.
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
- * @copyright	Copyright (C) 2005 - 2011 Open Source Matters and joomla-hrvatska.com. All rights reserved.
- * @license	GNU General Public License version 2 or later; see LICENSE.txt
- */
 
  defined('_JEXEC') or die;
  
