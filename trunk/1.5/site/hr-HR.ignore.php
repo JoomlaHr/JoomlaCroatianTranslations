@@ -1,6 +1,6 @@
 <?php
 /**
-* @version		$Id: hr-HR.ignore.php 6138 2007-01-02 03:44:18Z eddiea $
+* @version		$Id$
 * @package		Joomla
 * @copyright	Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved.
 * @license		GNU/GPL, see LICENSE.php
