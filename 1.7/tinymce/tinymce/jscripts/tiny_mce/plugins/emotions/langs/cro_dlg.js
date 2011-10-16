@@ -1,0 +1,20 @@
+tinyMCE.addI18n('cro.emotions_dlg',{
+title:"Umetni emotikon",
+desc:"Emotikoni",
+cool:"Cool",
+cry:"Pla\u010d",
+embarassed:"Srami se",
+foot_in_mouth:"Izlanuo se",
+frown:"Mr\u0161ti se",
+innocent:"Nevina\u0161ce",
+kiss:"Poljubac",
+laughing:"Smije se",
+money_mouth:"Bogata\u0161",
+sealed:"\u0160uti",
+smile:"Osmijeh",
+surprised:"Iznena\u0111en",
+tongue_out:"Plazi jezik",
+undecided:"Neodlu\u010dan",
+wink:"Namiguje",
+yell:"Vi\u010de"
+});
