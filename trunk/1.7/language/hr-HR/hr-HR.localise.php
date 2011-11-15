@@ -77,4 +77,3 @@ abstract class hr_HRLocalise {
 		return 200;
 	}
 }
-
