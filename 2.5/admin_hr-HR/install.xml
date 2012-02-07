@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension version="1.7" client="administrator" type="language" method="upgrade">
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>Croatian (HR)</name>
 	<tag>hr-HR</tag>
-	<name>Croatian</name>
-	<version>1.7.2</version>
-	<creationDate>2011-10-16</creationDate>
+	<version>2.5.1</version>
+	<creationDate>2012-02-08</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2011 Open Source Matters and joomla-hrvatska.com. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters and joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description><![CDATA[
-	<div align="center">
-	<table border="0" width="90%">
-  	    <tr>
-  		    <td width="100%" colspan="2">
-  		      <div align="center"><h3>Hrvatski prijevod Joomla! 1.7.3 od Joomla.hr</h3></div>
-  		      <hr />
-  		    </td>
-  	    </tr>
-  	    <tr>
-  		    <td width="20%"><u><strong>Područje:</strong></u></td>
-  		    <td width="80%">Administracija (Backend)</td>
-  	    </tr>
-  	    <tr>
-  		    <td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
-  		    <td width="80%">1.7.3</td>
-  	    </tr>
-  	    <tr>
-  		    <td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-  		    <td width="80%">1.7.3</td>
-  	    </tr>
-  	    <td width="100%" colspan="2"><hr /></td>
-  	    <tr>
-  		    <td width="20%"><u><strong>Joomla Hrvatska Website:</strong></u></td>
-  		    <td width="80%"><a href="http://www.joomla.hr" target="_blank">http://www.joomla.hr</a></td>
-  	    </tr>
-  	    <tr>
-  		    <td width="20%"><u><strong>Joomla Hrvatska - Website za preuzimanje prijevoda:</strong></u></td>
-  		    <td width="80%"><a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/" target="_blank">http://joomlacode.org/gf/project/joomlahrvatska/frs/</a></td>
-  	    </tr>
-  	    <tr>
-  		    <td width="100%" colspan="2">
-  		      <strong><font color="#008000">Preporučamo da redovito provjeravate site za preuzimanje prijevoda da biste uvijek imali aktualnu verziju.</font></strong><br/></br/>
-			  <br/>
-			  <strong>SAVJET: </strong> Pretplatite se na primanje obavijesti o novim dokumentima:<br/>
-			  <br/>
-			  1) registrirajte se na <a href="http://joomlacode.org/">http://joomlacode.org/</a>, te se prijavite<br/>
-			  2) otvorite link <a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/?action=FrsReleaseBrowse&frs_package_id=6010">paketa za v1.7</a><br/>
-			  3) pronađite u lijevom izborniku funkciju "Monitor Package" i uključite je.<br/>
-		    </td>
-  	    </tr>
-	    </table>
-	    </div>]]>
+		<div align="center">
+		<table border="0" width="90%">
+			<tr>
+				<td width="100%" colspan="2">
+					<div align="center"><h3>Hrvatski prijevod Joomla! 2.5.1 od Joomla.hr</h3></div>
+					<hr />
+				</td>
+			</tr>
+			<tr>
+				<td width="20%"><u><strong>Područje:</strong></u></td>
+				<td width="80%">Administracija (Backend)</td>
+			</tr>
+			<tr>
+				<td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
+				<td width="80%">2.5.1</td>
+			</tr>
+			<tr>
+				<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
+				<td width="80%">2.5.1</td>
+			</tr>
+				<td width="100%" colspan="2"><hr /></td>
+			<tr>
+				<td width="20%"><u><strong>Joomla Hrvatska Website:</strong></u></td>
+				<td width="80%"><a href="http://www.joomla.hr" target="_blank">http://www.joomla.hr</a></td>
+			</tr>
+			<tr>
+				<td width="20%"><u><strong>Joomla Hrvatska - Website za preuzimanje prijevoda:</strong></u></td>
+				<td width="80%"><a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/" target="_blank">http://joomlacode.org/gf/project/joomlahrvatska/frs/</a></td>
+			</tr>
+			<tr>
+				<td width="100%" colspan="2">
+					<strong><font color="#008000">Preporučamo da redovito provjeravate site za preuzimanje prijevoda da biste uvijek imali aktualnu verziju.</font></strong><br/></br/>
+					<br/>
+					<strong>SAVJET: </strong> Pretplatite se na primanje obavijesti o novim dokumentima:<br/>
+					<br/>
+					1) registrirajte se na <a href="http://joomlacode.org/">http://joomlacode.org/</a>, te se prijavite<br/>
+					2) otvorite link <a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/?action=FrsReleaseBrowse&frs_package_id=6269">paketa za v2.5</a><br/>
+					3) pronađite u lijevom izborniku funkciju "Monitor Package" i uključite je.<br/>
+				</td>
+			</tr>
+		</table>
+		</div>]]>
 	</description>
 	<files>
         <filename>index.html</filename>
@@ -135,6 +135,8 @@
 		<filename>hr-HR.mod_title.sys.ini</filename>
 		<filename>hr-HR.mod_toolbar.ini</filename>
 		<filename>hr-HR.mod_toolbar.sys.ini</filename>
+		<filename>hr-HR.mod_version.ini</filename>
+		<filename>hr-HR.mod_version.sys.ini</filename>
 		<filename>hr-HR.plg_authentication_gmail.ini</filename>
 		<filename>hr-HR.plg_authentication_gmail.sys.ini</filename>
 		<filename>hr-HR.plg_authentication_joomla.ini</filename>

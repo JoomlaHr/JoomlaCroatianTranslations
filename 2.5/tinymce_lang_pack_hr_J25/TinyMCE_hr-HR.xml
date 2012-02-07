@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="2.5" method="upgrade">
+	<name>TinyMCE hr-HR jezik</name>
+	<author>Croatian Translation Team</author>
+	<creationDate>2012-02-08</creationDate>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters and joomla.hr. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>prijevod@joomla.hr</authorEmail>
+	<authorUrl>http://www.joomla.hr</authorUrl>
+	<version>3.4.3.2</version>
+	<description><![CDATA[
+		<h3>Instalacija sadrži hrvatski jezični paket (hr-HR) za TinyMCE 3.4.3.2 ugrađen u Joomla 2.5</h3>
+		<div style="font-weight:normal">Ne zaboravite odabrati 'cro' jezik unutar <a href="index.php?option=com_plugins&view=plugins&filter_search=TinyMCE"><strong>Upravljanje Pluginovima: Editor - TinyMCE</strong></a><br/><br/>
+		Greške prijevoda molimo prijavljujte na adresu: <a href="mailto:prijevod@joomla.hr"><strong>prijevod@joomla.hr</strong></a>
+		<br/><br/></div>
+		]]>
+	</description>
+
+	<!-- Fileset definition -->
+	<fileset>
+		<files target="media/editors">
+					<filename>tinymce/jscripts/tiny_mce/langs/cro.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/advhr/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/advimage/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/advlink/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/autosave/langs/cro.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/emotions/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/fullpage/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/media/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/paste/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/style/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/table/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/template/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/themes/advanced/langs/cro.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/themes/advanced/langs/cro_dlg.js</filename>
+					<filename>tinymce/jscripts/tiny_mce/themes/simple/langs/cro.js</filename>
+		</files>
+	</fileset>
+</extension>

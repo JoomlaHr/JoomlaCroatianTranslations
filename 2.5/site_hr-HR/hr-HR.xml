@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="1.6" client="site" >
+<metafile version="2.5" client="site">
 	<tag>hr-HR</tag>
 	<name>Croatian</name>
-	<description>Croatian site language for Joomla 2.5.0</description>
-	<version>2.5.0</version>
-	<creationDate>2012-01-28</creationDate>
+	<description>Croatian site language for Joomla 2.5</description>
+	<version>2.5.1</version>
+	<creationDate>2012-02-08</creationDate>
 	<author>Croatian Translation Team</author>
-	<authorEmail>prijevod@joomla-hrvatska.com</authorEmail>
+	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
-	<copyright></copyright>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
-		<name>Croatian</name>
+		<name>Croatian (HR)</name>
 		<tag>hr-HR</tag>
 		<rtl>0</rtl>
 		<locale>hr_HR, hrv_HRV, hr, hrv, croatian, hrvatski, Croatian, Hrvatski, hr_HR.utf8</locale>
