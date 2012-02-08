@@ -1,15 +1,11 @@
 <?php
 /**
- * @version		$Id: hr-HR.localise.php 74 2011-11-15 19:37:46Z wooer $
- * @revision	$Rev$
- * @author		$Author$
- * @date		$Date$
- * @copyright	Copyright (C) 2005 - 2011 Open Source Matters and joomla-hrvatska.com. All rights reserved.
- * @license	GNU General Public License version 2 or later; see LICENSE.txt
+ * @copyright	Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
+ * @license		GNU General Public License version 2 or later; see LICENSE.txt
  */
 
- defined('_JEXEC') or die;
- 
+defined('_JEXEC') or die;
+
 /**
  * hr-HR localise class
  *

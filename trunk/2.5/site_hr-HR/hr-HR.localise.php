@@ -1,6 +1,5 @@
 <?php
 /**
- * $Id: hr-HR.localise.php 74 2011-11-15 19:37:46Z wooer $
  * @copyright	Copyright (C) 2005 - 2012 Open Source Matters and joomla.hr. All rights reserved.
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
