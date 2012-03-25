@@ -3,7 +3,7 @@
 	<name>Croatian Language Pack</name>
 	<packagename>hr-HR</packagename>
 	<version>2.5.4</version>
-	<creationDate>2012-03-22</creationDate>
+	<creationDate>2012-03-26</creationDate>
 	<url>www.joomla.hr</url>
 	<packager>Croatian Translation Team</packager>
 	<packagerurl>www.joomla.hr</packagerurl>
@@ -56,4 +56,7 @@
 		<file type="language" client="administrator" id="hr-HR">admin_hr-HR.zip</file>
 		<file type="file" id="hr-HR">tinymce_lang_pack_hr_J25.zip</file>
 	</files>
+	<updateservers>
+    <server type="extension" priority="1" name="Croatian Language Pack">http://update.joomla.hr/core_hr-HR/update_hr_hr.xml</server>
+  </updateservers>
 </extension>
