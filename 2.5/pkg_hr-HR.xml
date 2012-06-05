@@ -2,9 +2,14 @@
 <extension type="package" version="2.5">
 	<name>Croatian Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>2.5.4</version>
-	<creationDate>2012-03-26</creationDate>
-	<url>www.joomla.hr</url>
+	<version>2.5.4.4</version>
+	<creationDate>2012-06-05</creationDate>
+	<author>Croatian Translation Team</author>
+	<authorEmail>prijevod@joomla.hr</authorEmail>
+	<authorUrl>www.joomla.hr</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url></url>
 	<packager>Croatian Translation Team</packager>
 	<packagerurl>www.joomla.hr</packagerurl>
 	<description><![CDATA[
@@ -12,7 +17,7 @@
 		<table border="0" width="90%">
 			<tr>
 				<td width="100%" colspan="2">
-					<div align="center"><h3>Hrvatski prijevod Joomla! 2.5.4 od Joomla.hr</h3></div>
+					<div align="center"><h3>Hrvatski prijevod Joomla! 2.5.4v4 od Joomla.hr</h3></div>
 					<hr />
 				</td>
 			</tr>
@@ -54,9 +59,9 @@
 	<files>
 		<file type="language" client="site" id="hr-HR">site_hr-HR.zip</file>
 		<file type="language" client="administrator" id="hr-HR">admin_hr-HR.zip</file>
-		<file type="file" id="hr-HR">tinymce_lang_pack_hr_J25.zip</file>
+		<file type="file" client="site" id="TinyMCE_hr-HR">hr-HR_TinyMCE_3.4.9.1.zip</file>
 	</files>
 	<updateservers>
-    <server type="extension" priority="1" name="Croatian Language Pack">http://update.joomla.hr/core_hr-HR/update_hr_hr.xml</server>
-  </updateservers>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
+	</updateservers>
 </extension>

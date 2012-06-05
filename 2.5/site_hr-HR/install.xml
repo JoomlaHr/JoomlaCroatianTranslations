@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <extension version="2.5" client="site" type="language" method="upgrade">
-	<name>Croatian</name>
+	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>2.5.4</version>
-	<creationDate>2012-03-22</creationDate>
+	<version>2.5.4.4</version>
+	<creationDate>2012-06-05</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>

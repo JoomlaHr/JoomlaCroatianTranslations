@@ -2,12 +2,12 @@
 <extension type="file" version="2.5" method="upgrade">
 	<name>TinyMCE hr-HR jezik</name>
 	<author>Croatian Translation Team</author>
-	<creationDate>2012-02-08</creationDate>
+	<version>3.4.9.1</version>
+	<creationDate>2012-06-05</creationDate>
 	<copyright>Copyright (C) 2005 - 2012 Open Source Matters and joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
-	<version>3.4.3.2</version>
 	<description><![CDATA[
 		<h3>Instalacija sadrži hrvatski jezični paket (hr-HR) za TinyMCE 3.4.3.2 ugrađen u Joomla 2.5</h3>
 		<div style="font-weight:normal">Ne zaboravite odabrati 'cro' jezik unutar <a href="index.php?option=com_plugins&view=plugins&filter_search=TinyMCE"><strong>Upravljanje Pluginovima: Editor - TinyMCE</strong></a><br/><br/>
