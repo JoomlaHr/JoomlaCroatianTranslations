@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="2.5" client="site">
 	<tag>hr-HR</tag>
-	<name>Croatian</name>
+	<name>Croatian (hr-HR)</name>
 	<description>Croatian site language for Joomla 2.5</description>
-	<version>2.5.4</version>
-	<creationDate>2012-03-22</creationDate>
+	<version>2.5.4.4</version>
+	<creationDate>2012-06-05</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
