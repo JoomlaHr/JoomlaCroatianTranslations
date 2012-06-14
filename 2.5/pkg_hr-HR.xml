@@ -59,7 +59,7 @@
 	<files>
 		<file type="language" client="site" id="hr-HR">site_hr-HR.zip</file>
 		<file type="language" client="administrator" id="hr-HR">admin_hr-HR.zip</file>
-		<file type="file" client="site" id="TinyMCE_hr-HR">hr-HR_TinyMCE_3.4.9.1.zip</file>
+		<file type="file" client="site" id="TinyMCE_hr-HR">hr-HR_TinyMCE_3.5.1.1.zip</file>
 	</files>
 	<updateservers>
 		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
