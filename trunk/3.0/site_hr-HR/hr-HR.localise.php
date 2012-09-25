@@ -29,11 +29,11 @@ abstract class hr_HRLocalise
 	{
 		if ($count == 0)
 		{
-			$return =  array('0');
+			$return = array('0');
 		}
-		elseif($count == 1)
+		elseif ($count == 1)
 		{
-			$return =  array('1');
+			$return = array('1');
 		}
 		else
 		{
@@ -47,7 +47,7 @@ abstract class hr_HRLocalise
 	 *
 	 * @return  array  An array of ignored search words.
 	 *
-	 * @since	1.6
+	 * @since   1.6
 	 */
 	public static function getIgnoredSearchWords()
 	{
