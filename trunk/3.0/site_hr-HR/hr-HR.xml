@@ -2,9 +2,9 @@
 <metafile version="3.0" client="site">
 	<tag>hr-HR</tag>
 	<name>Croatian (hr-HR)</name>
-	<description>Croatian site language for Joomla 3.0</description>
+	<description>Croatian language for Joomla 3.0.0 - Site</description>
 	<version>3.0.0.1</version>
-	<creationDate>2012-09-24</creationDate>
+	<creationDate>2012-09-26</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
