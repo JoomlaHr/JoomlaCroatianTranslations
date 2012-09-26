@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.0" client="administrator">
 	<tag>hr-HR</tag>
-	<name>Croatian (HR)</name>
-	<description>Croatian admin language for Joomla 2.5</description>
+	<name>Croatian (hr-HR)</name>
+	<description>Croatian language for Joomla 3.0.0 - Administrator</description>
 	<version>3.0.0.1</version>
-	<creationDate>2012-09-25</creationDate>
+	<creationDate>2012-09-26</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
-	<authorUrl>http://www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
-	<copyright></copyright>
+	<authorUrl>www.joomla.hr</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
-		<name>Croatian (HR)</name>
+		<name>Croatian (hr-HR)</name>
 		<tag>hr-HR</tag>
 		<rtl>0</rtl>
 		<locale>hr_HR, hrv_HRV, hr, hrv, croatian, hrvatski, Croatian, Hrvatski, hr_HR.utf8</locale>

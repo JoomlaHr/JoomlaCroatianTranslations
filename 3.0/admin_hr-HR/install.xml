@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension version="2.5" client="administrator" type="language" method="upgrade">
+<extension version="3.0" client="administrator" type="language" method="upgrade">
 	<name>Croatian (HR)</name>
 	<tag>hr-HR</tag>
-	<version>2.5.7.1</version>
-	<creationDate>2012-09-17</creationDate>
+	<version>3.0.0.1</version>
+	<creationDate>2012-09-26</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
@@ -14,7 +14,7 @@
 		<table border="0" width="90%">
 			<tr>
 				<td width="100%" colspan="2">
-					<div align="center"><h3>Hrvatski prijevod Joomla! 2.5.7 od Joomla.hr</h3></div>
+					<div align="center"><h3>Hrvatski prijevod Joomla! 3.0.0 od Joomla.hr</h3></div>
 					<hr />
 				</td>
 			</tr>
@@ -24,11 +24,11 @@
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
-				<td width="80%">2.5.7</td>
+				<td width="80%">3.0.0</td>
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-				<td width="80%">2.5.7</td>
+				<td width="80%">3.0.0.1</td>
 			</tr>
 				<td width="100%" colspan="2"><hr /></td>
 			<tr>
@@ -46,7 +46,7 @@
 					<strong>SAVJET: </strong> Pretplatite se na primanje obavijesti o novim dokumentima:<br/>
 					<br/>
 					1) registrirajte se na <a href="http://joomlacode.org/">http://joomlacode.org/</a>, te se prijavite<br/>
-					2) otvorite link <a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/?action=FrsReleaseBrowse&frs_package_id=6269">paketa za v2.5</a><br/>
+					2) otvorite link <a href="http://joomlacode.org/gf/project/joomlahrvatska/frs/?action=FrsReleaseBrowse&frs_package_id=6269">paketa za v3.0</a><br/>
 					3) pronađite u lijevom izborniku funkciju "Monitor Package" i uključite je.<br/>
 				</td>
 			</tr>
@@ -54,7 +54,7 @@
 		</div>]]>
 	</description>
 	<files>
-        <filename>index.html</filename>
+		<filename>index.html</filename>
 		<filename>hr-HR.com_admin.ini</filename>
 		<filename>hr-HR.com_admin.sys.ini</filename>
 		<filename>hr-HR.com_banners.ini</filename>
@@ -129,6 +129,8 @@
 		<filename>hr-HR.mod_popular.sys.ini</filename>
 		<filename>hr-HR.mod_quickicon.ini</filename>
 		<filename>hr-HR.mod_quickicon.sys.ini</filename>
+		<filename>hr-HR.mod_stats_admin.ini</filename>
+		<filename>hr-HR.mod_stats_admin.sys.ini</filename>
 		<filename>hr-HR.mod_status.ini</filename>
 		<filename>hr-HR.mod_status.sys.ini</filename>
 		<filename>hr-HR.mod_submenu.ini</filename>
@@ -231,12 +233,11 @@
 		<filename>hr-HR.plg_user_joomla.sys.ini</filename>
 		<filename>hr-HR.plg_user_profile.ini</filename>
 		<filename>hr-HR.plg_user_profile.sys.ini</filename>
-		<filename>hr-HR.tpl_bluestork.ini</filename>
-		<filename>hr-HR.tpl_bluestork.sys.ini</filename>
 		<filename>hr-HR.tpl_hathor.ini</filename>
 		<filename>hr-HR.tpl_hathor.sys.ini</filename>
+		<filename>hr-HR.tpl_isis.sys.ini</filename>
+		<filename>hr-HR.tpl_isis.ini</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
 	</files>
-	<params />
 </extension>
