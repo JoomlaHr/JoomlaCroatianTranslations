@@ -2,8 +2,8 @@
 <extension version="3.0" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.0.0.1</version>
-	<creationDate>2012-09-24</creationDate>
+	<version>3.0.0.2</version>
+	<creationDate>2012-09-27</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
@@ -28,7 +28,7 @@
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-				<td width="80%">3.0.0</td>
+				<td width="80%">3.0.0.2</td>
 			</tr>
 				<td width="100%" colspan="2"><hr /></td>
 			<tr>
@@ -123,7 +123,6 @@
 		<filename>hr-HR.mod_whosonline.sys.ini</filename>
 		<filename>hr-HR.mod_wrapper.ini</filename>
 		<filename>hr-HR.mod_wrapper.sys.ini</filename>
-		<filename>hr-HR.pkg_joomla.sys.ini</filename>
 		<filename>hr-HR.tpl_beez3.ini</filename>
 		<filename>hr-HR.tpl_beez3.sys.ini</filename>
 		<filename>hr-HR.tpl_protostar.ini</filename>
