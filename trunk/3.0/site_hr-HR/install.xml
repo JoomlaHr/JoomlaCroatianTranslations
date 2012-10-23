@@ -2,8 +2,8 @@
 <extension version="3.0" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.0.1.1</version>
-	<creationDate>2012-10-03</creationDate>
+	<version>3.0.1.2</version>
+	<creationDate>2012-10-23</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
@@ -28,7 +28,7 @@
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-				<td width="80%">3.0.1.1</td>
+				<td width="80%">3.0.1.2</td>
 			</tr>
 				<td width="100%" colspan="2"><hr /></td>
 			<tr>
