@@ -2,14 +2,14 @@
 <metafile version="3.1" client="site">
 	<tag>hr-HR</tag>
 	<name>Croatian (hr-HR)</name>
-	<description>Croatian language for Joomla 3.1.0 - Site</description>
-	<version>3.1.0.1</version>
+	<version>3.1.1.1</version>
 	<creationDate>2013-04-14</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
 	<copyright>Copyright (C) 2005 - 2013 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Croatian language for Joomla 3.1.1 - Site</description>
 	<metadata>
 		<name>Croatian (hr-HR)</name>
 		<tag>hr-HR</tag>
