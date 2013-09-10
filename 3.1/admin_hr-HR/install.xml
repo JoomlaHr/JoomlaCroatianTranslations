@@ -2,8 +2,8 @@
 <extension version="3.1" client="administrator" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.1.1.1</version>
-	<creationDate>2013-04-13</creationDate>
+	<version>3.1.5.1</version>
+	<creationDate>2013-08-12</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
@@ -14,7 +14,7 @@
 		<table border="0" width="90%">
 			<tr>
 				<td width="100%" colspan="2">
-					<div align="center"><h3>Hrvatski prijevod Joomla! 3.1.1 od Joomla.hr</h3></div>
+					<div align="center"><h3>Hrvatski prijevod Joomla! 3.1.5 od Joomla.hr</h3></div>
 					<hr />
 				</td>
 			</tr>
@@ -24,11 +24,11 @@
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
-				<td width="80%">3.1.1</td>
+				<td width="80%">3.1.5</td>
 			</tr>
 			<tr>
 				<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-				<td width="80%">3.1.1</td>
+				<td width="80%">3.1.5</td>
 			</tr>
 				<td width="100%" colspan="2"><hr /></td>
 			<tr>
