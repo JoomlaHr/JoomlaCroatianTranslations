@@ -1,0 +1,46 @@
+INSTL_STEP_LANGUAGE_LABEL="Jezik"
+
+INSTL_STEP_LICENSE_LABEL="Licenca"
+
+INSTL_STEP_PREINSTALL_LABEL="Provjera prije instalacije"
+
+INSTL_STEPS_TITLE="Koraci"
+
+INSTL_SELECT_LANGUAGE_DESC="Molim odaberite jezik koji æete koristiti tijekom Joomla! instalacijskih koraka."
+
+INSTL_LANGUAGE_TITLE="Odaberite jezik"
+
+INSTL_PRECHECK_FOR_VERSION="Provjera prije instalacije %s:"
+
+INSTL_DATABASE_TITLE="Postavke povezivanja"
+
+INSTL_DATABASE_DESC="<p>Joomla! web site sprema sve svoje podatke u bazu podataka. Ovaj prozor instalacijskom programu daje informacije potrebne za izradu te baze podataka.</p><p> Ako Joomlu instalirate na udaljeni server, trebat æete dobiti te informacije od vašeg hostera.</p><p>Neki hosteri zahtijevaju da bazu izradite prije instalacije Joomle. Ako dobijete poruku "_QQ_"Nije moguæe spajanje na bazu podataka"_QQ_", provjerite da li su vaše korisnièko ime i lozinka ispravni. Ako i dalje dobivate tu pogrešku, provjerite sa svojim hosterom trebate li izraditi bazu podataka prije same instalacije Joomle.</p>"
+
+INSTL_SITE_NAME_TITLE="Naziv stranice"
+
+INSTL_COMPLETE="Kraj"
+
+INSTL_COMPLETE_DESC1="Kliknite na gumb Stranica da vidite vašu Joomla! web stranicu ili gumb Admin da biste se prijavili kao administrator."
+
+INSTL_COMPLETE_DESC2="Na Joomla! stranici za pomoæ, pronaæi æete korak-po-korak vodiè za instalaciju vašeg jeziènog paketa za Joomla! Naæi æete listu linkova sa raspoloživim jeziènim paketima."
+
+INSTL_COMPLETE_DESC3="Kliknite gumb na desnoj strani da biste otvorili stranicu za pomoæ u novom prozoru."
+
+INSTL_DEFAULTLANGUAGE_NOTE="Opaska: jednom kad kliknete tipku Dalje doæi æete natrag na kraj instalacijskog procesa gdje æe se pojaviti upit s porukom za brisanje instalacijskog direktorija."
+
+INSTL_DEFAULTLANGUAGE_TABLE_HEADER="Odaberite vaš osnovni jezik"
+
+INSTL_DATABASE_ERROR_INITIALISE_SCHEMA="Greška kod inicijalizacije broja verzije sheme"
+
+INSTL_DATABASE_PREFIX_INVALID_CHARS="MySQL prefiks tablice mora poèeti slovom"
+
+INSTL_ADVANCED_SETTINGS="Napredne postavke"
+
+INSTL_BASIC_SETTINGS="Osnovne postavke"
+
+INSTL_INSTALLATION="Instalacija"
+
+INSTL_LICENSE="Licenca"
+
+JADVANCED="Napredno"
+
