@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.1" client="administrator">
+<metafile version="3.3" client="administrator">
 	<tag>hr-HR</tag>
 	<name>Croatian (hr-HR)</name>
-	<version>3.1.5.1</version>
-	<creationDate>2013-08-12</creationDate>
+	<description>Croatian language for Joomla 3.3.5 - Administrator</description>
+	<version>3.3.5.1</version>
+	<creationDate>2014-10-01</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2013 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Croatian language for Joomla 3.1.5 - Administrator</description>
 	<metadata>
 		<name>Croatian (hr-HR)</name>
 		<tag>hr-HR</tag>
