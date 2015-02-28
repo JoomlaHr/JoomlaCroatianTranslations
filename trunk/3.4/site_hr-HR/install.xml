@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <extension version="3.4" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.4.0</version>
-	<creationDate>2015-01-31</creationDate>
+	<version>3.4.0.1</version>
+	<creationDate>2015-02-28</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
-	<authorUrl>www.joomla.hr</authorUrl>
+	<authorUrl>http://www.joomla.hr</authorUrl>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters and joomla.hr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>
@@ -47,6 +47,7 @@
 			</div>]]>
 	</description>
 	<files>
+		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.com_ajax.ini</filename>
 		<filename>hr-HR.com_config.ini</filename>
 		<filename>hr-HR.com_contact.ini</filename>
@@ -63,7 +64,6 @@
 		<filename>hr-HR.com_wrapper.ini</filename>
 		<filename>hr-HR.files_joomla.sys.ini</filename>
 		<filename>hr-HR.finder_cli.ini</filename>
-		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.lib_fof.sys.ini</filename>
 		<filename>hr-HR.lib_idna_convert.sys.ini</filename>
 		<filename>hr-HR.lib_joomla.ini</filename>
@@ -71,7 +71,6 @@
 		<filename>hr-HR.lib_phpass.sys.ini</filename>
 		<filename>hr-HR.lib_phputf8.sys.ini</filename>
 		<filename>hr-HR.lib_simplepie.sys.ini</filename>
-		<filename>hr-HR.localise.php</filename>
 		<filename>hr-HR.mod_articles_archive.ini</filename>
 		<filename>hr-HR.mod_articles_archive.sys.ini</filename>
 		<filename>hr-HR.mod_articles_categories.ini</filename>
@@ -128,9 +127,10 @@
 		<filename>hr-HR.tpl_beez3.sys.ini</filename>
 		<filename>hr-HR.tpl_protostar.ini</filename>
 		<filename>hr-HR.tpl_protostar.sys.ini</filename>
-		<filename>index.html</filename>
+		<filename>hr-HR.localise.php</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
+		<filename>index.html</filename>
 	</files>
 	<params />
 </extension>
