@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" version="3.4" method="upgrade">
 	<name>Croatian Language Pack</name>
 	<packagename>hr-HR</packagename>
