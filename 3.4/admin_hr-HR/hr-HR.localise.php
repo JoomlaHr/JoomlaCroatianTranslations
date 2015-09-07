@@ -2,7 +2,7 @@
 /**
  * @package    Joomla.Language
  *
- * @copyright  Copyright (C) 2005 - 2015 Open Source Matters, Inc. All rights reserved.
+ * @copyright	Copyright (C) 2005 - 2015 Open Source Matters & Joomla.hr. All rights reserved.
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 
@@ -11,14 +11,14 @@ defined('_JEXEC') or die;
 /**
  * hr-HR localise class.
  *
- * @since    1.6
+ * @since  1.6
  */
-abstract class hr_HRLocalise
+abstract class Hr_HRLocalise
 {
 	/**
 	 * Returns the potential suffixes for a specific number of items
 	 *
-	 * @param   integer  $count  The number of items.
+	 * @param   int  $count  The number of items.
 	 *
 	 * @return  array  An array of potential suffixes.
 	 *
@@ -28,16 +28,17 @@ abstract class hr_HRLocalise
 	{
 		if ($count == 0)
 		{
-			return array('0');
+			$return = array('0');
 		}
 		elseif ($count == 1)
 		{
-			return array('1');
+			$return = array('1');
 		}
 		else
 		{
-			return array('MORE');
+			$return = array('MORE');
 		}
+		return $return;
 	}
 
 	/**
@@ -49,33 +50,42 @@ abstract class hr_HRLocalise
 	 */
 	public static function getIgnoredSearchWords()
 	{
-		return array('i', 'u', 'na');
+		$search_ignore = array();
+		$search_ignore[] = "a";
+		$search_ignore[] = "i";
+		$search_ignore[] = "ili";
+		return $search_ignore;
 	}
 
 	/**
 	 * Returns the lower length limit of search words
 	 *
 	 * @return  integer  The lower length limit of search words.
+	 *
 	 * @since   1.6
 	 */
 	public static function getLowerLimitSearchWord()
 	{
 		return 3;
 	}
+
 	/**
 	 * Returns the upper length limit of search words
 	 *
 	 * @return  integer  The upper length limit of search words.
+	 *
 	 * @since   1.6
 	 */
 	public static function getUpperLimitSearchWord()
 	{
 		return 20;
 	}
+
 	/**
 	 * Returns the number of chars to display when searching
 	 *
 	 * @return  integer  The number of chars to display when searching.
+	 *
 	 * @since   1.6
 	 */
 	public static function getSearchDisplayedCharactersNumber()

@@ -2,8 +2,8 @@
 <extension version="3.4" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.4.3.2</version>
-	<creationDate>2015-07-06</creationDate>
+	<version>3.4.4.1</version>
+	<creationDate>2015-09-07</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
@@ -14,7 +14,7 @@
 			<table border="0" width="90%">
 			<tr>
 			<td width="100%" colspan="2">
-			<div align="center"><h3>Hrvatski prijevod Joomla! 3.4.3 od Joomla.hr</h3></div>
+			<div align="center"><h3>Hrvatski prijevod Joomla! 3.4.4 od Joomla.hr</h3></div>
 			<hr />
 			</td>
 			</tr>
@@ -24,11 +24,11 @@
 			</tr>
 			<tr>
 			<td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
-			<td width="80%">3.4.3</td>
+			<td width="80%">3.4.4</td>
 			</tr>
 			<tr>
 			<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-			<td width="80%">3.4.3</td>
+			<td width="80%">3.4.4</td>
 			</tr>
 			<td width="100%" colspan="2"><hr /></td>
 			<tr>
@@ -47,7 +47,6 @@
 			</div>]]>
 	</description>
 	<files>
-		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.com_ajax.ini</filename>
 		<filename>hr-HR.com_config.ini</filename>
 		<filename>hr-HR.com_contact.ini</filename>
@@ -64,6 +63,7 @@
 		<filename>hr-HR.com_wrapper.ini</filename>
 		<filename>hr-HR.files_joomla.sys.ini</filename>
 		<filename>hr-HR.finder_cli.ini</filename>
+		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.lib_fof.ini</filename>
 		<filename>hr-HR.lib_fof.sys.ini</filename>
 		<filename>hr-HR.lib_idna_convert.sys.ini</filename>
@@ -72,6 +72,7 @@
 		<filename>hr-HR.lib_phpass.sys.ini</filename>
 		<filename>hr-HR.lib_phputf8.sys.ini</filename>
 		<filename>hr-HR.lib_simplepie.sys.ini</filename>
+		<filename>hr-HR.localise.php</filename>
 		<filename>hr-HR.mod_articles_archive.ini</filename>
 		<filename>hr-HR.mod_articles_archive.sys.ini</filename>
 		<filename>hr-HR.mod_articles_categories.ini</filename>
@@ -128,7 +129,6 @@
 		<filename>hr-HR.tpl_beez3.sys.ini</filename>
 		<filename>hr-HR.tpl_protostar.ini</filename>
 		<filename>hr-HR.tpl_protostar.sys.ini</filename>
-		<filename>hr-HR.localise.php</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
 		<filename>index.html</filename>

@@ -2,8 +2,8 @@
 <extension version="3.4" client="administrator" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.4.3.2</version>
-	<creationDate>2015-07-06</creationDate>
+	<version>3.4.4.1</version>
+	<creationDate>2015-09-07</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
@@ -14,7 +14,7 @@
 			<table border="0" width="90%">
 			<tr>
 			<td width="100%" colspan="2"><div align="center">
-			<h3>Hrvatski prijevod Joomla! 3.4.3 od Joomla.hr</h3>
+			<h3>Hrvatski prijevod Joomla! 3.4.4 od Joomla.hr</h3>
 			</div>
 			<hr /></td>
 			</tr>
@@ -24,11 +24,11 @@
 			</tr>
 			<tr>
 			<td width="20%"><u><strong>Joomla! verzija:</strong></u></td>
-			<td width="80%">3.4.3</td>
+			<td width="80%">3.4.4</td>
 			</tr>
 			<tr>
 			<td width="20%"><u><strong>Verzija prijevoda:</strong></u></td>
-			<td width="80%">3.4.3</td>
+			<td width="80%">3.4.4</td>
 			</tr>
 			<td width="100%" colspan="2"><hr /></td>
 			<tr>
@@ -46,7 +46,6 @@
 			</div>]]>
 	</description>
 	<files>
-		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.com_admin.ini</filename>
 		<filename>hr-HR.com_admin.sys.ini</filename>
 		<filename>hr-HR.com_ajax.ini</filename>
@@ -108,7 +107,9 @@
 		<filename>hr-HR.com_weblinks.sys.ini</filename>
 		<filename>hr-HR.com_wrapper.ini</filename>
 		<filename>hr-HR.com_wrapper.sys.ini</filename>
+		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.lib_joomla.ini</filename>
+		<filename>hr-HR.localise.php</filename>
 		<filename>hr-HR.mod_custom.ini</filename>
 		<filename>hr-HR.mod_custom.sys.ini</filename>
 		<filename>hr-HR.mod_feed.ini</filename>
@@ -167,6 +168,12 @@
 		<filename>hr-HR.plg_content_pagenavigation.sys.ini</filename>
 		<filename>hr-HR.plg_content_vote.ini</filename>
 		<filename>hr-HR.plg_content_vote.sys.ini</filename>
+		<filename>hr-HR.plg_editors_codemirror.ini</filename>
+		<filename>hr-HR.plg_editors_codemirror.sys.ini</filename>
+		<filename>hr-HR.plg_editors_none.ini</filename>
+		<filename>hr-HR.plg_editors_none.sys.ini</filename>
+		<filename>hr-HR.plg_editors_tinymce.ini</filename>
+		<filename>hr-HR.plg_editors_tinymce.sys.ini</filename>
 		<filename>hr-HR.plg_editors-xtd_article.ini</filename>
 		<filename>hr-HR.plg_editors-xtd_article.sys.ini</filename>
 		<filename>hr-HR.plg_editors-xtd_image.ini</filename>
@@ -175,12 +182,6 @@
 		<filename>hr-HR.plg_editors-xtd_pagebreak.sys.ini</filename>
 		<filename>hr-HR.plg_editors-xtd_readmore.ini</filename>
 		<filename>hr-HR.plg_editors-xtd_readmore.sys.ini</filename>
-		<filename>hr-HR.plg_editors_codemirror.ini</filename>
-		<filename>hr-HR.plg_editors_codemirror.sys.ini</filename>
-		<filename>hr-HR.plg_editors_none.ini</filename>
-		<filename>hr-HR.plg_editors_none.sys.ini</filename>
-		<filename>hr-HR.plg_editors_tinymce.ini</filename>
-		<filename>hr-HR.plg_editors_tinymce.sys.ini</filename>
 		<filename>hr-HR.plg_extension_joomla.ini</filename>
 		<filename>hr-HR.plg_extension_joomla.sys.ini</filename>
 		<filename>hr-HR.plg_finder_categories.ini</filename>
@@ -249,9 +250,8 @@
 		<filename>hr-HR.tpl_hathor.sys.ini</filename>
 		<filename>hr-HR.tpl_isis.ini</filename>
 		<filename>hr-HR.tpl_isis.sys.ini</filename>
-		<filename>hr-HR.localise.php</filename>
-		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
+		<filename file="meta">install.xml</filename>
 		<filename>index.html</filename>
 	</files>
 	<params />
