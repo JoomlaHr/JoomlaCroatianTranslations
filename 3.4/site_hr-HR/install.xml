@@ -3,7 +3,7 @@
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
 	<version>3.4.4.1</version>
-	<creationDate>2015-09-07</creationDate>
+	<creationDate>2015-09-09</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
@@ -47,6 +47,7 @@
 			</div>]]>
 	</description>
 	<files>
+		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.com_ajax.ini</filename>
 		<filename>hr-HR.com_config.ini</filename>
 		<filename>hr-HR.com_contact.ini</filename>
@@ -63,7 +64,6 @@
 		<filename>hr-HR.com_wrapper.ini</filename>
 		<filename>hr-HR.files_joomla.sys.ini</filename>
 		<filename>hr-HR.finder_cli.ini</filename>
-		<filename>hr-HR.ini</filename>
 		<filename>hr-HR.lib_fof.ini</filename>
 		<filename>hr-HR.lib_fof.sys.ini</filename>
 		<filename>hr-HR.lib_idna_convert.sys.ini</filename>
@@ -72,7 +72,6 @@
 		<filename>hr-HR.lib_phpass.sys.ini</filename>
 		<filename>hr-HR.lib_phputf8.sys.ini</filename>
 		<filename>hr-HR.lib_simplepie.sys.ini</filename>
-		<filename>hr-HR.localise.php</filename>
 		<filename>hr-HR.mod_articles_archive.ini</filename>
 		<filename>hr-HR.mod_articles_archive.sys.ini</filename>
 		<filename>hr-HR.mod_articles_categories.ini</filename>
@@ -129,6 +128,7 @@
 		<filename>hr-HR.tpl_beez3.sys.ini</filename>
 		<filename>hr-HR.tpl_protostar.ini</filename>
 		<filename>hr-HR.tpl_protostar.sys.ini</filename>
+		<filename>hr-HR.localise.php</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
 		<filename>index.html</filename>
