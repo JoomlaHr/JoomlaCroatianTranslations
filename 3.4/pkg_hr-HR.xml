@@ -2,8 +2,8 @@
 <extension type="package" version="3.4" method="upgrade">
 	<name>Croatian Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>3.4.4.1</version>
-	<creationDate>2015-09-09</creationDate>
+	<version>3.4.4.2</version>
+	<creationDate>2015-09-10</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
