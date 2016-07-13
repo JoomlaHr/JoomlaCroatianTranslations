@@ -2,8 +2,8 @@
 <extension version="3.6" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.6.0</version>
-	<creationDate>Lipanj 2016.</creationDate>
+	<version>3.6.0.1</version>
+	<creationDate>Srpanj 2016.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
