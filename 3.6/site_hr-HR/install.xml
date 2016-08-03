@@ -2,8 +2,8 @@
 <extension version="3.6" client="site" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.6.0.1</version>
-	<creationDate>Srpanj 2016.</creationDate>
+	<version>3.6.1.1</version>
+	<creationDate>Kolovoz 2016.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
@@ -93,8 +93,8 @@
 		<filename>hr-HR.tpl_beez3.sys.ini</filename>
 		<filename>hr-HR.tpl_protostar.ini</filename>
 		<filename>hr-HR.tpl_protostar.sys.ini</filename>
-		<filename file="meta">install.xml</filename>
 		<filename file="meta">hr-HR.xml</filename>
+		<filename file="meta">install.xml</filename>
 	</files>
 	<params />
 </extension>
