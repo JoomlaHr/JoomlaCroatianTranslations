@@ -2,7 +2,7 @@
 <extension type="package" version="3.6" method="upgrade">
 	<name>Croatian (hr-HR) Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>3.6.1.1</version>
+	<version>3.6.2.1</version>
 	<creationDate>Kolovoz 2016.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
@@ -12,7 +12,7 @@
 	<url></url>
 	<packager></packager>
 	<packagerurl></packagerurl>
-	<description>Croatian (hr-HR) language pack for Joomla! 3.6.1</description>
+	<description>Croatian (hr-HR) language pack for Joomla! 3.6.2</description>
 	<files>
 		<file type="language" client="administrator" id="hr-HR">admin_hr-HR.zip</file>
 		<file type="language" client="site" id="hr-HR">site_hr-HR.zip</file>
