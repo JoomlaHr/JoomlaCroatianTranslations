@@ -2,7 +2,7 @@
 <extension version="3.6" client="administrator" type="language" method="upgrade">
 	<name>Croatian (hr-HR)</name>
 	<tag>hr-HR</tag>
-	<version>3.6.2.1</version>
+	<version>3.6.3.1</version>
 	<creationDate>Kolovoz 2016.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
