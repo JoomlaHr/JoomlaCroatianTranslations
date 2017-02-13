@@ -3,16 +3,17 @@
 	version="3.6"
 	client="installation">
 	<name>Croatian (Hrvatski)</name>
-	<version>3.6.3</version>
-	<creationDate>Listopad 2016.</creationDate>
-	<author>Joomla! Hrvatska team</author>
-	<copyright>Copyright (C) 2005 - 2016 Open Source Matters &amp; joomla.hr. All rights reserved.</copyright>
+	<version>3.7.0</version>
+	<creationDate>Veljača 2017.</creationDate>
+	<author>Croatian Translation Team</author>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<files>
 		<filename>hr-HR.ini</filename>
 	</files>
 	<metadata>
-		<name>Hrvatski (Croatian)</name>
+		<name>Croatian (hr-HR)</name>
+		<nativeName>Croatian (Hrvatski)</nativeName>
 		<tag>hr-HR</tag>
 		<rtl>0</rtl>
 	</metadata>
