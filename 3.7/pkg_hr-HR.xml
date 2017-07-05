@@ -2,23 +2,25 @@
 <extension type="package" version="3.7" method="upgrade">
 	<name>Croatian (hr-HR) Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>3.7.0.1</version>
-	<creationDate>Travanj 2017.</creationDate>
+	<version>3.7.3.1</version>
+	<creationDate>Srpanj 2017.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
 	<copyright>Copyright (C) 2005 - 2017 Open Source Matters, Inc. All rights reserved.</copyright>
-	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url></url>
 	<packager>Croatian Joomla! Translation Team</packager>
 	<packagerurl>www.joomla.hr</packagerurl>
-	<description>Croatian (hr-HR) language pack for Joomla! 3.7.0</description>
+	<description>Croatian (hr-HR) language pack for Joomla! 3.7.3</description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
-		<file type="language" client="site" id="hr-HR">site_hr-HR.zip</file>
-		<file type="language" client="administrator" id="hr-HR">admin_hr-HR.zip</file>
+		<folder type="language" client="site" id="hr-HR">site_hr-HR</folder>
+		<folder type="language" client="administrator" id="hr-HR">admin_hr-HR</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_3.xml</server>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">
+			https://update.joomla.org/language/translationlist_3.xml
+		</server>
 	</updateservers>
 </extension>
