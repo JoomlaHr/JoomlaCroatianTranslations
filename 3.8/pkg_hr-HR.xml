@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.7" method="upgrade">
+<extension type="package" version="3.8" method="upgrade">
 	<name>Croatian (hr-HR) Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>3.7.4.1</version>
-	<creationDate>Srpanj 2017.</creationDate>
+	<version>3.8.4.1</version>
+	<creationDate>Siječanj 2018.</creationDate>
 	<author>Croatian Translation Team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2017 Open Source Matters, Inc. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters, Inc. All rights reserved.</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<url></url>
+	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Croatian Joomla! Translation Team</packager>
 	<packagerurl>www.joomla.hr</packagerurl>
-	<description>Croatian (hr-HR) language pack for Joomla! 3.7.4</description>
+	<description>Croatian (hr-HR) language pack for Joomla! 3.8.4</description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="hr-HR">site_hr-HR</folder>
