@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="" client="administrator" type="jezik" method="upgrade">
+	<name>Croatian (Croatia)</name>
+	<tag>hr-HR</tag>
+	<version/>
+	<creationDate/>
+	<author>Joomla! Hrvatska team</author>
+	<authorEmail>prijevod@joomla.hr</authorEmail>
+	<authorUrl>http://www.joomla.hr</authorUrl>
+	<copyright>Copyright (C) 2005 - 2019 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
+	<license>GNU Opća javna licenca verzija 2 ili novija; vidi LICENSE.txt</license>
+	<description>hr-HR jezik administracije</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params/>
+</extension>
