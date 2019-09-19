@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.8" client="installation">
-	<name>Croatian (Hrvatska)</name>
-	<version>3.9.11</version>
-	<creationDate>Srpanj 2019.</creationDate>
+	<name>Croatian (Croatia)</name>
+	<version>3.9.12</version>
+	<creationDate>2019-09-19</creationDate>
 	<author>Joomla! Hrvatska team</author>
 	<copyright>Copyright (C) 2005 - 2019 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
 	<license>GNU Opća javna licenca verzija 2 ili novija; vidi LICENSE.txt</license>
@@ -10,8 +10,8 @@
 		<filename>hr-HR.ini</filename>
 	</files>
 	<metadata>
-		<name>Croatian (hr-HR)</name>
-		<nativeName>Croatian (Hrvatska)</nativeName>
+		<name>Croatian (Croatia)</name>
+		<nativeName>Hrvatski (Hrvatska)</nativeName>
 		<tag>hr-HR</tag>
 		<rtl>0</rtl>
 	</metadata>
