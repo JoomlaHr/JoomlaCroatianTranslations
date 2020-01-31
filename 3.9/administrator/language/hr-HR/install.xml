@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.8" client="administrator" type="language" method="upgrade">
+<extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Croatian (Croatia)</name>
 	<tag>hr-HR</tag>
-	<version>3.9.14</version>
-	<creationDate>2019-12-18</creationDate>
+	<version>3.9.15</version>
+	<creationDate>2019-01-30</creationDate>
 	<author>Joomla! Hrvatska team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2019 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
 	<license>GNU Opća javna licenca verzija 2 ili novija; vidi LICENSE.txt</license>
 	<description>hr-HR jezik administracije</description>
 	<files>
