@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.8" client="installation">
 	<name>Croatian (Croatia)</name>
-	<version>3.9.15</version>
-	<creationDate>2019-12-18</creationDate>
+	<version>3.9.16</version>
+	<creationDate>2020-03-10</creationDate>
 	<author>Joomla! Hrvatska team</author>
-	<copyright>Copyright (C) 2005 - 2019 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
 	<license>GNU Opća javna licenca verzija 2 ili novija; vidi LICENSE.txt</license>
 	<files>
 		<filename>hr-HR.ini</filename>
