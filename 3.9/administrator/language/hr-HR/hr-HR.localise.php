@@ -26,17 +26,17 @@ abstract class Hr_HRLocalise
 	 */
 	public static function getPluralSuffixes($count)
 	{
-		if ($count == 0)
+		if (($count % 10 == 1) and ($count & 100 != 11))
 		{
-			return array('0');
+			return array('ONE', '1');
 		}
-		elseif ($count == 1)
+		elseif (($count % 10 >= 2) and ($count % 10 <= 4) and !(($count & 100 >= 12) and ($count % 100  <= 14)))
 		{
-			return array('1');
+			return array('FEW', '2');
 		}
 		else
 		{
-			return array('MORE');
+			return array('OTHER', 'MORE');
 		}
 	}
 
