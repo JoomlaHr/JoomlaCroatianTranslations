@@ -2,8 +2,8 @@
 <extension version="3.9" client="site" type="language" method="upgrade">
 	<name>Croatian (Croatia)</name>
 	<tag>hr-HR</tag>
-	<version>3.10.4</version>
-	<creationDate>2021-12-17</creationDate>
+	<version>3.10.5</version>
+	<creationDate>2022-01-18</creationDate>
 	<author>Joomla! Hrvatska team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
