@@ -2,12 +2,12 @@
 <extension type="package" version="3.9" method="upgrade">
 	<name>Croatian (hr-HR) Language Pack</name>
 	<packagename>hr-HR</packagename>
-	<version>3.10.6.1</version>
-	<creationDate>2022-02-15</creationDate>
+	<version>3.10.7.1</version>
+	<creationDate>2022-03-29</creationDate>
 	<author>Joomla! Hrvatska team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
 	<authorUrl>http://www.joomla.hr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2022 Open Source Matters &amp; joomla.hr. Sva prava pridržana.</copyright>
+	<copyright>(C) 2019 Open Source Matters, Inc.</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Hrvatska team</packager>
