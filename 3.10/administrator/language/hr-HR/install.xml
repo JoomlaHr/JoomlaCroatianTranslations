@@ -2,7 +2,7 @@
 <extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Croatian (Croatia)</name>
 	<tag>hr-HR</tag>
-	<version>3.10.7</version>
+	<version>3.10.8</version>
 	<creationDate>2022-03-29</creationDate>
 	<author>Joomla! Hrvatska team</author>
 	<authorEmail>prijevod@joomla.hr</authorEmail>
